@@ -9,7 +9,7 @@ Rest Client: https://marketplace.visualstudio.com/items?itemName=humao.rest-clie
  - npm init
  - touch .gitignore db.json main.js
 
-### Get contents
-## Git ignore Generator
+## Get contents
+### Git ignore Generator
 https://www.toptal.com/developers/gitignore
 
