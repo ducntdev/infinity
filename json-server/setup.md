@@ -10,3 +10,6 @@ Rest Client: https://marketplace.visualstudio.com/items?itemName=humao.rest-clie
  - touch .gitignore db.json main.js
 
 ### Get contents
+## Git ignore Generator
+https://www.toptal.com/developers/gitignore
+
