@@ -1,6 +1,9 @@
 # Install package
 ```
-npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+npm i @fortawesome/fontawesome-svg-core 
+      @fortawesome/free-solid-svg-icons 
+      @fortawesome/react-fontawesome 
+      @fortawesome/free-brands-svg-icons
 ```
 
 # import vào App.jsx
@@ -8,7 +11,7 @@ npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @forta
 import { fab } from '@fortawesome/free-brands-svg-icons'; 
 import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons'; 
 import { FontAwesomeIcon } from '../node_modules/@fortawesome/react-fontawesome'; 
-<br/>
+
 library.add(fab, faCheckSquare, faCoffee);
 ```
 
