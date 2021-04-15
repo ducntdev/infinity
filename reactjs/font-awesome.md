@@ -15,10 +15,11 @@ import { FontAwesomeIcon } from '../node_modules/@fortawesome/react-fontawesome'
 library.add(fab, faCheckSquare, faCoffee);
 ```
 
-# Find icon
-![image](https://user-images.githubusercontent.com/72643469/114815972-79b46500-9de1-11eb-9467-4cc7e87808e9.png)
-
 # Usage
 ``` jsx
 <FontAwesomeIcon icon={['fab', 'facebook']} />
 ```
+
+# Find icon
+https://fontawesome.com/icons?d=gallery&p=2&q=fac&s=brands
+![image](https://user-images.githubusercontent.com/72643469/114815972-79b46500-9de1-11eb-9467-4cc7e87808e9.png)
