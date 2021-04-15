@@ -1,7 +1,7 @@
 # Install package
-`
+```
 npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
-`
+```
 
 # import vào App.jsx
 ```javascript
