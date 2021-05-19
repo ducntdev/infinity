@@ -13,3 +13,11 @@ heroku apps:create your-static-site-example // Thay my-static-site-example bằn
 git push heroku master
 heroku open
 ```
+6. Next time deploy, just: 
+```
+cd your-project-path
+git add .
+git commit -m "your message"
+git push heroku master
+heroku open
+```
