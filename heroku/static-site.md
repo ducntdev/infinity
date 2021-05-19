@@ -1,6 +1,6 @@
 1. Create Heroku account: https://signup.heroku.com/
 2. Install Heroku CLI: https://devcenter.heroku.com/articles/heroku-cli#download-and-install
-3. Go to your project folder and create ```index.php``` file with a content: ```<?php header( 'Location: /index.html' ) ;  ?>```
+3. Go to your project folder and create ```index.php``` file with a content: ```<?php header( 'Location: /index.html' ) ;  ?>``` (make sure your project have ```index.html``` and you also can replace ```index.html``` by another file you want to run).
 4. Tạo Heroku App trên terminal:
 ```
 cd your-project-path
