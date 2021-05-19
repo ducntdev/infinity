@@ -7,7 +7,7 @@ cd your-project-path
 git init
 git add .
 git commit -m "My site ready for deployment."
-heroku login
+heroku login // bypass if you already login on Terminal
 heroku apps:create my-static-site-example // Thay my-static-site-example bằng 1 tên khác, cẩn thận bị trùng
 git push heroku master
 heroku open
