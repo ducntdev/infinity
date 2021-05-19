@@ -12,4 +12,3 @@ heroku apps:create your-static-site-example // Thay my-static-site-example bằn
 git push heroku master
 ```
 6. View result here: https://your-static-site-example.herokuapp.com/ (với my-static-site-example là tên app tạo ở trên)
-7. 
